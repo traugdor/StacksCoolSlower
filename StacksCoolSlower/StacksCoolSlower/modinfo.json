@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "stackscoolslower",
+    "name": "StacksCoolSlower",
+    "authors": [
+        "traugdor"
+    ],
+    "description": "A stack of items cools slower than a single item. This is a fact of basic thermomadymananamic stuff.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
